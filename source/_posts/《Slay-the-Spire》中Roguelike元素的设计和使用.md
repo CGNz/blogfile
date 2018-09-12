@@ -3,7 +3,7 @@ title: 《Slay the Spire》中Roguelike元素的设计和使用
 tags: 
  - DNF
  - 游戏策划
-categories: DNF
+categories: 其他游戏分析
 ---
 
 ![Slay the Spire](https://github.com/CGNz/blogimage/raw/master/Slay%20the%20Spire/1.png)
