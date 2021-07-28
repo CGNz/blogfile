@@ -1,5 +1,6 @@
 ---
-title: Hello World
+title: Hexo搭建教程
+date: 2018-06-20 00:39:29
 catagories: 教程
 tags: hexo
 ---
